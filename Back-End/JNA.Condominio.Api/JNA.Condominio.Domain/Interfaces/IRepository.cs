@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JNA.Condominio.Infra.Repositories
+namespace JNA.Condominio.Domain.Repositories
 {
 
     public interface IRepository<TEntity> where TEntity : class
